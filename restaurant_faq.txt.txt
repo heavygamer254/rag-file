@@ -1,0 +1,32 @@
+restaurant_faq.txt
+
+Q: What are your opening hours?
+A: We are open from 10:00 AM to 11:00 PM every day.
+
+Q: Do you offer vegetarian and vegan options?
+A: Yes, we have a variety of vegetarian and vegan dishes on our menu.
+
+Q: Can I make a reservation?
+A: Yes, you can make a reservation through our website or by calling us.
+
+Q: Do you provide home delivery?
+A: Yes, we offer home delivery through Swiggy and Zomato.
+
+Q: Do you have outdoor seating?
+A: Yes, we have a cozy outdoor seating area available.
+
+Q: Are pets allowed?
+A: Pets are allowed in the outdoor seating area.
+
+Q: Do you host private events or parties?
+A: Yes, we offer private event bookings. Please contact us for more details.
+
+Q: What payment methods do you accept?
+A: We accept cash, credit/debit cards, and UPI payments.
+
+Q: Do you offer Wi-Fi?
+A: Yes, free Wi-Fi is available for all our customers.
+
+Q: Where are you located?
+A: We are located at 123 Main Street, Food City, India.
+
