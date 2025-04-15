@@ -1,3 +1,13 @@
-the price of a cup is 70 dollars
+**Item Price List**
 
+- The price of a cup is 70 rupees.  
+- The price of a notebook is 50 rupees.  
+- The price of a pen is 10 rupees.  
+- The price of a water bottle is 120 rupees.  
+- The price of a backpack is 850 rupees.  
+- The price of a mouse is 450 rupees.  
+- The price of a keyboard is 900 rupees.  
+- The price of a phone charger is 300 rupees.  
+- The price of a yoga mat is 600 rupees.  
+- The price of a lamp is 750 rupees.
 
