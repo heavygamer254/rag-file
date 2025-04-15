@@ -1,11 +1,8 @@
-Item | Description | Price (USD)
-Coffee Mug | Ceramic mug, 350ml | $7.99
-Wireless Mouse | Bluetooth, ergonomic | $14.50
-Notebook | 200 pages, ruled | $3.25
-LED Desk Lamp | Adjustable brightness, USB powered | $18.99
-Water Bottle | Stainless steel, 1 liter | $12.00
-Noise-Canceling Headphones | Over-ear, wireless | $59.99
-Backpack | Water-resistant, 20L | $29.95
-Yoga Mat | Non-slip, 6mm thick | $22.49
-Phone Charger | Fast-charging USB-C | $9.99
-Mechanical Keyboard | RGB backlight, compact | $49.00
+Coffee Mug
+
+Description: Ceramic mug, 350ml
+
+Price: $7.99
+
+
+
